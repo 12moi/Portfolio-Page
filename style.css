@@ -43,19 +43,32 @@
     background-color: grey;
     height: 500px;
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
     border-radius: 2px;
     margin-top: 60px;
     margin-left: 50px;
     box-shadow: -10px 20px 50px red;
+}
+.form{
+    margin-top: 1%;
+    
+}
+#Name, #Email{
+    border-radius: 11px;
+    border: none;
+    font-size: large;
+    padding: 2%;
+    width: 100%;
+}
+button{
+    background-color: blue;
+    border-radius: 11px;
+    border: none;
+    font-size: large;
+    padding: 2%;
+    width: 50%;
+}
+
+    
 
 
-}
-.contact-info{
-    height: 350px;
-    width: 230px;
-    padding: 20px;
-    background: black;
-    color: white;
-    margin-top: 50px;
-}
