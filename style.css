@@ -13,6 +13,22 @@
     padding-top: 10%;
     font-size: 50px;
 }
-. .header h1 .span{
+.header h1 .span{
     color: yellow;
+}
+.container{
+    margin-top: 5px;
+    
+    box-sizing: border-box;
+    display: flex;
+}
+.box{
+
+    border: 2%;
+    margin-left: 0%;
+}
+.container .box img{
+    margin-left: 5px;
+    height: 500px;
+    width: 500px;
 }
