@@ -46,6 +46,20 @@ span{
     border: 2%;
     margin-left: 0%;
 }
+.container-fluid1{
+    background-color: grey;
+}
+.mycontainer{
+    display: flex;
+    justify-content: space-between;
+    box-sizing: border-box;
+    background-color: blue;
+    
+}
+.mycontainer .box{
+    border: 2px solid yellow;
+    background-color: white;
+}
 .container .box img{
     margin-left: 5px;
     height: 500px;
