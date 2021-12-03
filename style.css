@@ -27,11 +27,11 @@
     padding-top: 10%;
     font-size: 50px;
 }
-.header h1 .span{
+span{
     color: yellow;
 }
 .boxe{
-    background-image: url('images/bg2.jpg');
+    
     margin-top: 5px;
     justify-content: space-between;
     box-sizing: border-box;
@@ -67,6 +67,12 @@
     margin-top: 10px;
     margin-left: 10px;
     
+}
+.boxx{
+    display: flex;
+    justify-content: space-between;
+    border: 2px;
+    margin: 2px;
 }
 .form{
     margin-top: 7%;
