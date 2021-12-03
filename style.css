@@ -18,7 +18,7 @@
 }
 .container{
     margin-top: 5px;
-    
+    justify-content: space-between;
     box-sizing: border-box;
     display: flex;
 }
@@ -31,4 +31,10 @@
     margin-left: 5px;
     height: 500px;
     width: 500px;
+}
+.container-fluid{
+    display: flex;
+    justify-content: space-between;
+    border: 10px;
+    margin: 10px;
 }
