@@ -33,6 +33,7 @@
     width: 500px;
 }
 .container-fluid{
+    text-align: center;
     display: flex;
     justify-content: space-between;
     border: 10px;
