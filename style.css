@@ -7,6 +7,20 @@
     background-repeat: no-repeat;
     
 }
+
+
+.navlist{
+    color: white;
+    font-size: 25px;
+}
+.navlist ul{
+    display: flex;
+    justify-content: space-between;
+    text-decoration: none;
+}
+.navlist ul li{
+    text-decoration: none;
+}
 .header h1{
     color: white;
     text-align: center;
@@ -16,11 +30,15 @@
 .header h1 .span{
     color: yellow;
 }
-.container{
+.boxe{
+    background-image: url('images/bg2.jpg');
     margin-top: 5px;
     justify-content: space-between;
     box-sizing: border-box;
     display: flex;
+}
+.card{
+    color: none;
 }
 .box{
 
@@ -33,24 +51,25 @@
     width: 500px;
 }
 .container-fluid{
+    background-color: darkgray;
     text-align: center;
     display: flex;
     justify-content: space-between;
     border: 10px;
     margin: 10px;
 }
-.container1{
-    background-color: grey;
-    height: 500px;
+.container-fluid{
+    
+    height: 600px;
     display: flex;
     justify-content: space-around;
     border-radius: 2px;
-    margin-top: 60px;
-    margin-left: 50px;
-    box-shadow: -10px 20px 50px red;
+    margin-top: 10px;
+    margin-left: 10px;
+    
 }
 .form{
-    margin-top: 1%;
+    margin-top: 7%;
     
 }
 #Name, #Email{
@@ -68,6 +87,7 @@ button{
     padding: 2%;
     width: 50%;
 }
+
 
     
 
