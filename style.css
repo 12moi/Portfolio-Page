@@ -1,3 +1,18 @@
-body{
-    background-image: url(images/bg1.jpg);
+
+.header{
+    height: 500px;
+    background-image: url('images/bg1.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    
+}
+.header h1{
+    color: white;
+    text-align: center;
+    padding-top: 10%;
+    font-size: 50px;
+}
+. .header h1 .span{
+    color: yellow;
 }
