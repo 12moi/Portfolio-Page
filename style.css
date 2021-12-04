@@ -49,6 +49,10 @@ span{
 .container-fluid1{
     background-color: grey;
 }
+.container-fluid1 .box img{
+    height: 300px;
+    width: auto;
+}
 .mycontainer{
     display: flex;
     justify-content: space-between;
@@ -62,8 +66,8 @@ span{
 }
 .container .box img{
     margin-left: 5px;
-    height: 500px;
-    width: 500px;
+    height: 300px;
+    width: 300px;
 }
 .container-fluid{
     background-color: darkgray;
@@ -83,11 +87,28 @@ span{
     margin-left: 10px;
     
 }
+.port .card{
+    float: inline-start;
+   background-color: black;
+   color: white;
+   text-align: center;
+   margin: 5%;
+}
 .boxx{
     display: flex;
     justify-content: space-between;
     border: 2px;
     margin: 2px;
+}
+.boxx .card{
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin: 5%;
+}
+.boxx .card h7{
+    font-size: large;
+    color: yellow;
 }
 .form{
     margin-top: 7%;
