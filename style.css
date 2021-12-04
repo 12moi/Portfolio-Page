@@ -128,6 +128,9 @@ span{
 .port .card h4{
     color: yellow;
 }
+.port .card a{
+    color: none;
+}
 .port h6{
     color: yellow;
     font-size: 20px;
