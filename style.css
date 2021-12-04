@@ -89,10 +89,20 @@ span{
     margin-left: 10px;
     
 }
+.port{
+    background-image: url('images/clint-patterson-dYEuFB8KQJk-unsplash.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.portlist{
+    display: inline-block;
+    color: white;
+}
 .port .card{
-    float: inline-start;
-   background-color: black;
-   color: white;
+    float: inline-block;
+   margin-bottom: 2%;
+   color:black;
    text-align: center;
    margin: 5%;
 }
