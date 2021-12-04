@@ -19,12 +19,12 @@ Ability to review the other projects
 The webpage is working properly although some section are under development like buttons.
 
 ## Technologies Used
-HTML
-CSS
-Bootstrap
+HTML<br>
+CSS<br>
+Bootstrap<br>
 javascript
 
 ## Support and Contact
 For any support and Query Contact moi.shadrack@student.moringaschool.com
 ## License
-MIT
+M.I.T
