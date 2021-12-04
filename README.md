@@ -3,5 +3,5 @@ This is a webpage that describes my education background, work experience, skill
 
 ## Description
 This website describes clearly about me 
-Created on 4/12/2021 by [Moi Shadrack]
+Created on 4/12/2021 by Moi Shadrack
 
