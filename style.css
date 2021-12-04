@@ -122,6 +122,12 @@ span{
     font-size: large;
     color: yellow;
 }
+.contact{
+    margin-top: 7%;
+}
+.contact h6{
+    font-size: large;
+}
 .form{
     margin-top: 7%;
     
