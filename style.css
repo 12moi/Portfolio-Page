@@ -1,5 +1,7 @@
 
-
+*{
+    font-family: 'Roboto', sans-serif;
+}
 .header{
     height: 500px;
     background-image: url('images/bg1.jpg');
