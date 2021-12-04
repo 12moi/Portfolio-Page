@@ -72,7 +72,9 @@ span{
     width: 300px;
 }
 .container-fluid{
-    background-color: darkgray;
+    background: linear-gradient(to right, #00093c, #2d0b00);
+    border-radius: 0, 100px, 0 0;
+    padding: 100px 0 30px;
     text-align: center;
     display: flex;
     justify-content: space-between;
@@ -146,8 +148,19 @@ button{
     font-size: large;
     padding: 2%;
     width: 50%;
+    cursor: pointer;
 }
-
+hr{
+    width: 100%;
+    border: #00093c;
+    border-bottom: 2px solid black;
+    margin: 20px;
+}
+.copyright{
+    text-align: center;
+    font-size: large;
+    font-weight: 40px;
+}
     
 
 
