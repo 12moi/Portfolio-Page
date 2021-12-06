@@ -161,6 +161,7 @@ span{
 .portlist{
     text-align: center;
     justify-items: flex-start;
+    list-style: none;
     color: white;
 }
 .portlist ul{
