@@ -71,6 +71,7 @@
     display: flex;
     justify-content: space-between;
     text-decoration: none;
+    list-style: none;
 }
 .navlist ul ol{
     text-decoration: none;
